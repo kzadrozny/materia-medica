@@ -2,13 +2,14 @@
 * [Introduction](README.md)
 
 ## Recipes
+<!-- Plan on using ahcnors to do sub-sets: https://toolchain.gitbook.com/pages.html -->
 * [Base Recipes]()
 
-### Tinctures
+* Tinctures
 
-### Salves and Balms
+* Salves and Balms
 
-### Honey Blends
+* Honey Blends
 
 ## Herbs
 * [Ashwagandha](Ashwagandha.md)

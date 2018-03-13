@@ -1,9 +1,48 @@
-h1 {
-	color: #767676;
+@import url('https://fonts.googleapis.com/css?family=Alegreya|Fira+Sans')
+
+/*
+ * Sidebar
+ * --------------------------------------------------
+ */
+
+.book-summary ul.summary li.header {
+	font-family: 'Alegreya', serif;
+	padding: 20px 10px 5px 15px;
+	padding-bottom: 5px; /* to override default css */
+    text-transform: unset;
 }
 
-h2 {
-	color: #767676;
+.book-summary ul.summary li.chapter {
+    padding-left: 0.75em;
 }
 
-/*1800x2360 pixels for cover.jpg, 200x262 for cover_small.jpg*/
+/*
+ * Book Content
+ * --------------------------------------------------
+ */
+
+.markdown-section h1 {
+	color: #6f102c;
+    font-family: 'Alegreya', serif;
+    margin-bottom: 0.25em;
+}
+
+.markdown-section h2 {
+    font-size: 1.5em;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 600;
+    color: #767676;
+    margin-bottom: 0.25em;
+}
+
+.markdown-section h3 {
+    font-size: 1.25em;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 400;
+    color: #767676;
+    margin-bottom: 0.25em;
+}
+
+p {
+	font-family: 'Fira Sans', sans-serif;
+}
