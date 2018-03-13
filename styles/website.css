@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Alegreya|Fira+Sans')
+@import url('https://fonts.googleapis.com/css?family=Alegreya')
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans')
 
 
 /*
@@ -27,6 +28,7 @@ body {
 
 .book-summary ul.summary li.header {
     color: #083729;
+    font-size: 1.15em;
 	font-family: 'Alegreya', serif;
 	padding: 20px 10px 5px 15px;
 	padding-bottom: 5px; /* to override default css */

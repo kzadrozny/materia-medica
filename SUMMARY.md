@@ -1,4 +1,5 @@
 # Contents
+## Front Matter
 * [Introduction](README.md)
 
 ## Recipes
