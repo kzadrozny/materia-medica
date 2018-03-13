@@ -3,7 +3,7 @@ Anti-inflammatory and antioxidant
 
 Promote physical and mental health, defend against disease and damaging environmental factors
 
-## Uses
+## Characteristics
 - adaptogen
 - anti-inflammatory
 - antiseptic
@@ -11,6 +11,14 @@ Promote physical and mental health, defend against disease and damaging environm
 - aphrodisiac
 - bitter
 - sedative
+
+## Benefits
+- treatment of chronic insomnia
+- postpartum depression
+- anxiety relief
+- inflamation
+- rejuvenates the brain and nervous system
+- treat deficiency states with side effects of exhaustion, weight loss, or poor immunity
 
 ## Allies
 - __Cardamom__: mask the intense flavor
