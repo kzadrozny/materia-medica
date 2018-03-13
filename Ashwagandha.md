@@ -3,6 +3,9 @@ Anti-inflammatory and antioxidant
 
 Promote physical and mental health, defend against disease and damaging environmental factors
 
+## Parts Used
+Roots
+
 ## Characteristics
 - adaptogen
 - anti-inflammatory
@@ -29,7 +32,10 @@ Promote physical and mental health, defend against disease and damaging environm
 - __Nettle__: kidney and immune support
 - __Rose__: cooling to balance the heat of ashwagandha
 - __Scullcap__: fibromyalgia and other chronic inflammatory conditions
-- __Shatavari__: strengthening the female reproductive system.
+- __Shatavari__: strengthening the female reproductive system
+
+## Folklore and History
+It thrives where other plants wither and die, thus giving it the history of being a rejuvenating and life extending herb.
 
 ## Cautions
 Not for pregnant women
