@@ -1,19 +1,51 @@
 @import url('https://fonts.googleapis.com/css?family=Alegreya|Fira+Sans')
 
+
+/*
+ * Global
+ * --------------------------------------------------
+ */
+
+body {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.book-summary {
+    font-family: 'Fira Sans', sans-serif;
+    background: #e7f0ed;
+}
+
+
 /*
  * Sidebar
  * --------------------------------------------------
  */
 
+ #book-search-input {
+    background: #eee;
+ }
+
 .book-summary ul.summary li.header {
+    color: #083729;
 	font-family: 'Alegreya', serif;
 	padding: 20px 10px 5px 15px;
 	padding-bottom: 5px; /* to override default css */
-    text-transform: unset;
+    text-transform: none;
 }
 
 .book-summary ul.summary li.chapter {
     padding-left: 0.75em;
+}
+
+.book-summary ul.summary li.active>a {
+    color: #f4f4f5;
+    background: #579a86;
+    text-decoration: none;
+}
+
+a.gitbook-link {
+    color: #767676!important;
+    font-size: 0.75em;
 }
 
 /*
@@ -22,13 +54,13 @@
  */
 
 .markdown-section h1 {
-	color: #6f102c;
+	color: #0b4d3a;
     font-family: 'Alegreya', serif;
     margin-bottom: 0.25em;
 }
 
 .markdown-section h2 {
-    font-size: 1.5em;
+    font-size: 1.25em;
     font-family: 'Fira Sans', sans-serif;
     font-weight: 600;
     color: #767676;
@@ -36,13 +68,9 @@
 }
 
 .markdown-section h3 {
-    font-size: 1.25em;
+    font-size: 1.15em;
     font-family: 'Fira Sans', sans-serif;
     font-weight: 400;
     color: #767676;
     margin-bottom: 0.25em;
-}
-
-p {
-	font-family: 'Fira Sans', sans-serif;
 }
