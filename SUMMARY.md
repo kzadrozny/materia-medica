@@ -1,16 +1,19 @@
 # Contents
 ## Front Matter
 * [Introduction](README.md)
+* [Guide by symptom(s)](Symptoms.md)
 
 ## Recipes
-<!-- Plan on using ahcnors to do sub-sets: https://toolchain.gitbook.com/pages.html -->
-* [Base Recipes]()
-
-* Tinctures
-
-* Salves and Balms
-
+* [Balms and Salves](Balms.md)
+* [Decoctions](Decoctions.md)
+* [Herbal Oils](Herbal-oils.md)
 * Honey Blends
+* [Infusions](Infusions.md)
+* [Medicinal Food](Food.md)
+* [Ointments](Ointment.md)
+* [Poultice](Poultice.md)
+* [Tinctures](Tinctures.md)
+* [Wash](Wash.md)
 
 ## Herbs
 * [Ashwagandha](Ashwagandha.md)
@@ -18,6 +21,6 @@
 * [Brahmi](Brahmi.md)
 * [Damiana](Damiana.md)
 
-## Carrier Ingredients
-* [Honey](Honey.md)
-* [Sesame Oil](SesameOil.md)
+## [Carrier Ingredients](Oils.md)
+* [Honey](Oils.md#honey)
+* [Sesame Oil](Oils.md#sesame)

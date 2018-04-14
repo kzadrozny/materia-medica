@@ -1,12 +1,28 @@
-# Sesame Oil
+# Carrier Oils
+
+## [Honey](#honey)
+### Characteristics
+- anabolic
+- antioxidant
+- antiseptic
+
+### Benefits
+- weight management
+- counters allergies
+- increases energy Source
+- encourages sleep
+- heals wounds and ulcers
+- diabetes aid
+- cough suppressor
 
 
-## Characteristics
+## [Sesame Oil](#sesame)
+### Characteristics
 - anti-inflammatory
 - boosts circulation
 - lowers blood pressure
 
-## Benefits
+### Benefits
 - improve hair and skin health
 - help in bone growth
 - reduce blood pressure
@@ -18,8 +34,6 @@
 - improve the digestive process
 - lower inflammation
 
-## Folklore and History
-
-
-## Cautions
+### Cautions
 If taking an anticoagulant or blood-thinning medications, speak with your doctor before using. Sesame oil lowers blood pressure and thins the blood, so combining with these medications could be potentially dangerous.
+

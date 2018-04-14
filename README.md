@@ -6,5 +6,10 @@ This collection of monographs serves a way to organize herbal recipes as I find 
 Photos by [Carolee](https://www.instagram.com/theblackandthered/)
 
 ## Standard Disclosure
+Avoid using the same herb for extended periods of time. If the condition has not improved; change to a different herb or seek consultation.
+
+
 For educational purposes only. This information has not been evaluated by the Food and Drug Administration.
+
+
 This information is not intended to diagnose, treat, cure, or prevent any disease.
