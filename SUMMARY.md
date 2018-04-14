@@ -22,5 +22,5 @@
 * [Damiana](Damiana.md)
 
 ## [Carrier Ingredients](Oils.md)
-* [Honey](Oils.md#honey)
-* [Sesame Oil](Oils.md#sesame)
+* [Honey](Ingredients.md#honey)
+* [Sesame Oil](Ingredients.md#sesame)

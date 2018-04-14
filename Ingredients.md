@@ -1,4 +1,4 @@
-# Carrier Oils
+# Ingredients and Carrier Oils
 
 ## [Honey](#honey)
 ### Characteristics

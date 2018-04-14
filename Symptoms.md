@@ -1,7 +1,44 @@
 # Guide to Herbs by Symptom
-Toxic herbs (like mandrake) have not been included in this listing.
+**Quick Links**
+* [Acne and Complexion](#acne)
+* [Alterative](#alterative)
+* [Anesthetic](#anesthetic)
+* [Antibacterial](#antiseptic)
+* [Antibiotic](#antiseptic)
+* [Antiseptic](#antiseptic)
+* [Antispasmodic](#antispasmodic)
+* [Appetite](#appetite)
+* [Arthritis](#arthritis)
+* [Bruises](#bruises)
+* [Burns](#burns)
+* [Colds](#colds)
+* [Congestion](#congestion)
+* [Constipation](#constipation)
+* [Contagion](#contagion)
+* [Cough](#cough)
+* [Dehydration](#dehydration)
+* [Diarrhea](#diarrhea)
+* [Expectorant](#congestion)
+* [Headaches](#headaches)
+* [Heartburn](#heartburn)
+* [Inflammation](#inflammation)
+* [Laxatives](#constipation)
+* [Nausea](#nausea)
+* [Nervine](#nervine) _Calms the nerves_
+* [Psoriasis](#psoriasis)
+* [Rashes](#rashes)
+* [Sedative](#sedative)
+* [Sleep](#sedative)
+* [Stress](#nervine)]
+* [Stomach Ache](#nausea)
+* [Sunburn](#sunburn)
+* [Toothache](#toothache)
+* [Ulcers](#ulcers)
+* [Warts](#warts)
+* [Wounds](#wounds)
 
-## Acne and Complexion
+
+## [Acne and Complexion](#acne)
 * Agrimony
 * Chamomile
 * Cleavers
@@ -11,7 +48,7 @@ Toxic herbs (like mandrake) have not been included in this listing.
 * Mistletoe Berries
 * Nettles
 
-## Alterative
+## [Alterative](#alterative)
 Supportive remedies to be considered when chronic inflammatory or degenerative disease exist. Supports gradual whole-body healing.
 * Aloe
 * Betony Wood
@@ -26,12 +63,12 @@ Supportive remedies to be considered when chronic inflammatory or degenerative d
 * Mountain Grape
 * Red Clover
 
-## Anesthetic
+## [Anesthetic](#anesthetic)
 * Clove (Oil)
 * Kava Kava
 * Peppermint (Oil)
 
-## Antiseptic / Antibiotic / Antibacterial
+## [Antiseptic / Antibiotic / Antibacterial](#antiseptic)
 * Anise (Oil)
 * Aloe
 * Avens
@@ -53,7 +90,7 @@ Supportive remedies to be considered when chronic inflammatory or degenerative d
 * Thyme
 * Uva Ursi
 
-## Antispasmodic
+## [Antispasmodic](#antispasmodic)
 * Blue Cohosh
 * Catnip
 * Chamomile
@@ -73,7 +110,7 @@ Supportive remedies to be considered when chronic inflammatory or degenerative d
 * Valerian
 * Verbena
 
-## Appetite
+## [Appetite](#appetite)
 * Chamomile _(Mix with Ginger)_
 * Blessed Thistle
 * Hops
@@ -82,7 +119,7 @@ Supportive remedies to be considered when chronic inflammatory or degenerative d
 * Rosemary
 * Tansy
 
-## Arthritis
+## [Arthritis](#arthritis)
 * Aloe
 * Bayberry
 * Comfrey
@@ -97,7 +134,7 @@ Supportive remedies to be considered when chronic inflammatory or degenerative d
 * Tansy
 * Thyme
 
-## Bruises
+## [Bruises](#bruises)
 * Arnica
 * Burdock
 * Comfrey _(as a poultice)_
@@ -108,7 +145,7 @@ Supportive remedies to be considered when chronic inflammatory or degenerative d
 * Thyme
 * Wolfbane
 
-## Burns
+## [Burns](#burns)
 * Aloe
 * urdock
 * Cleavers
@@ -117,7 +154,7 @@ Supportive remedies to be considered when chronic inflammatory or degenerative d
 * Sage _(fresh)_
 * Slippery Elm
 
-## Colds
+## [Colds](#colds)
 * Angelica
 * Anise
 * Avens
@@ -146,7 +183,7 @@ Supportive remedies to be considered when chronic inflammatory or degenerative d
 * Thyme
 * Yarrow
 
-## Congestion (Expectorant)
+## [Congestion (Expectorant)](#congestion)
 * Agrimony (Expectorant)
 * Angelica (Expectorant)
 * Anise (Expectorant)
@@ -171,7 +208,7 @@ Supportive remedies to be considered when chronic inflammatory or degenerative d
 * Slippery Elm
 * Thyme (Expectorant)
 
-## Constipation and Laxatives
+## [Constipation and Laxatives](#constipation)
 * Boneset (Laxative)
 * Chickweed _(as decoction)_
 * Dandelion _(Make broth from root)_
@@ -181,10 +218,10 @@ Supportive remedies to be considered when chronic inflammatory or degenerative d
 * Sage
 * Slippery Elm
 
-## Contagion
+## [Contagion](#contagion)
 * Angelica _(Burn as incense to prevent spread of disease)_
 
-## Cough
+## [Cough](#cough)
 * Agrimony
 * Angelica
 * Anise
@@ -203,13 +240,13 @@ Supportive remedies to be considered when chronic inflammatory or degenerative d
 * Slippery Elm
 * Thyme
 
-## Dehydration
+## [Dehydration](#dehydration)
 * Chamomile
 * Elderflower
 * Willow Bark
 * Licorice (Mulethi)
 
-## Diarrhea
+## [Diarrhea](#diarrhea)
 * Agrimony
 * Avens
 * Bayberry
@@ -226,7 +263,7 @@ Supportive remedies to be considered when chronic inflammatory or degenerative d
 * Pomegranate (Rind)
 * White Willow Bark
 
-## Headaches
+## [Headaches](#headaches)
 * Anise
 * Basil _(As tea)_
 * Betony Wood
@@ -240,16 +277,16 @@ Supportive remedies to be considered when chronic inflammatory or degenerative d
 * Verbena
 * White Willow _(Excellent)_
 
-## Heartburn
+## [Heartburn](#heartburn)
 * Chamomile _(with ginger)_
 * Peppermint
 
-## Inflammation
+## [Inflammation](#inflammation)
 * Chamomile
 * Chickweed _(as ointment)_
 * Hops
 
-## Nausea / Stomach Ache
+## [Nausea / Stomach Ache](#nausea)
 * Basil
 * Betony Wood
 * Chamomile _(Excellent)_
@@ -257,7 +294,7 @@ Supportive remedies to be considered when chronic inflammatory or degenerative d
 * Cinnamon _(Excellent)_
 * Peppermint _(Excellent)_
 
-## Nervine
+## [Nervine and Stress](#nervine)
 Used to calm the nerves
 * Basil
 * Betony Wood
@@ -273,7 +310,7 @@ Used to calm the nerves
 * Verbena
 * Wormwood
 
-## Psoriasis
+## [Psoriasis](#psoriasis)
 * Blackberry
 * Burdock
 * Cleavers
@@ -283,11 +320,11 @@ Used to calm the nerves
 * Marshmallow
 * Mountain Grape
 
-## Rashes
+## [Rashes](#rashes)
 * Hops
 * Plantain
 
-## Sedative
+## [Sedative and Sleep](#sedative)
 * Agrimony (for sleep)
 * Anise (for sleep)
 * Chamomile
@@ -301,17 +338,17 @@ Used to calm the nerves
 * Verbena (for sleep)
 * Witch Hazel
 
-## Sunburn
+## [Sunburn](#sunburn)
 * Aloe
 * Elder Flower
 
-## Toothache
+## [Toothache](#toothache)
 * Chamomile (Whole herb)
 * Clove _(Apply oil to pained area)_
 * Lavender (Oil)
 * Sweet Marjoram
 
-## Ulcers
+## [Ulcers](#ulcers)
 Internal and External Ulcers: Not all these herbs can be used in both cases.
 * Aloe
 * Chickweed
@@ -326,10 +363,10 @@ Internal and External Ulcers: Not all these herbs can be used in both cases.
 * Verbena
 * Witch Hazel
 
-## Warts
+## [Warts](#warts)
 * Greater Celandine
 
-## Wounds
+## [Wounds](#wounds)
 * Aloe
 * Agrimony
 * Arnica

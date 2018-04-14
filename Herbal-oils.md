@@ -3,8 +3,11 @@ Oils infused with herbs. For carrier oils and ingredients, view [Carrier Ingredi
 
 ## Calendula Oil
 _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
+
 Prep time: **3-8 months**
+
 Shelf life: **Year**
+
 Uses: **Rashes, eczema, cosmetics**
 
 ### Ingredients

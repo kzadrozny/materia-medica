@@ -1,8 +1,10 @@
-# Seasons and Food Recipes
+# Seasonings and Food Recipes
 
 ## Fire Cider
 _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
+
 Prep time: **3-4 weeks**
+
 Shelf life: **Indefinite**
 
 ### Ingredients
@@ -26,7 +28,9 @@ Use 1-2 tablespoons every 3-4 hours at the first sign of a cold. Use liberally f
 
 ## Four Thieves Vinegar
 _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
+
 Prep time: **3-4 weeks**
+
 Shelf life: **Year**
 
 ### Ingredients
@@ -50,7 +54,9 @@ Take 1-2 tablespoons every 3-4 hours to ward off illness. Use liberally for flav
 
 ## Garlic Herb Oil
 _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
+
 Prep time: **30 mins**
+
 Shelf life: **Weeks to months**
 
 ### Ingredients
@@ -72,7 +78,9 @@ Eat on bread, crackers, soups, rice, or on pasta.
 
 ## Pickled Garlic
 _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
+
 Prep time: **6-8 weeks**
+
 Shelf life: **Year**
 
 ### Ingredients
