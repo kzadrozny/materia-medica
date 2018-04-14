@@ -1,11 +1,5 @@
 # Balm
 
-## [Customizing Your Consistency](#freezer-trick)
-In order to test the consistency of your balm, use the freezer trick:
-1. As soon as the beeswax has melted, put a tablespoon of the mix on a plate in the freezer for a minute or two to check the consistency.
-
-2. If you decide you want a firmer salve, add more beeswax. If you want a softer salve, add a little more oil.
-
 ## Base Recipe
 - 8 oz herbal infused oil(s)
 - 1 oz beeswax
@@ -13,13 +7,16 @@ In order to test the consistency of your balm, use the freezer trick:
 
 Place oils and wax in double boiler and heat until melted. Remove from heat and add essential oil(s). Pour into containers while still hot.
 
+> ## [Customizing Your Consistency](#freezer-trick)
+> In order to test the consistency of your balm, use the freezer trick:
+> 1. As soon as the beeswax has melted, put a tablespoon of the mix on a plate in the freezer for a minute or two to check the consistency.
+
+> 2. If you decide you want a firmer salve, add more beeswax. If you want a softer salve, add a little more oil.
+
 ## Calendula Salve
 _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
-
 Prep time: **1 hour**
-
 Shelf life: **Year**
-
 Uses: **Rashes, wounds, and cuts**
 
 ### Ingredients
