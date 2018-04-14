@@ -15,9 +15,9 @@ Place oils and wax in double boiler and heat until melted. Remove from heat and 
 
 ## Calendula Salve
 _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
-Prep time: **1 hour**
-Shelf life: **Year**
-Uses: **Rashes, wounds, and cuts**
+- Prep time: **1 hour**
+- Shelf life: **Year**
+- Uses: **Rashes, wounds, and cuts**
 
 ### Ingredients
 - 1 cup Calendula Oil (see [Herbal Oils](Herbal-oils.md))

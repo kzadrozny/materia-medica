@@ -2,10 +2,8 @@
 
 ## Fire Cider
 _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
-
-Prep time: **3-4 weeks**
-
-Shelf life: **Indefinite**
+- Prep time: **3-4 weeks**
+- Shelf life: **Indefinite**
 
 ### Ingredients
 - 1 medium onion, chopped
@@ -28,10 +26,8 @@ Use 1-2 tablespoons every 3-4 hours at the first sign of a cold. Use liberally f
 
 ## Four Thieves Vinegar
 _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
-
-Prep time: **3-4 weeks**
-
-Shelf life: **Year**
+- Prep time: **3-4 weeks**
+- Shelf life: **Year**
 
 ### Ingredients
 - 4 cloves garlic
@@ -54,10 +50,8 @@ Take 1-2 tablespoons every 3-4 hours to ward off illness. Use liberally for flav
 
 ## Garlic Herb Oil
 _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
-
-Prep time: **30 mins**
-
-Shelf life: **Weeks to months**
+- Prep time: **30 mins**
+- Shelf life: **Weeks to months**
 
 ### Ingredients
 - Several cloves of garlic, chopped
@@ -78,10 +72,8 @@ Eat on bread, crackers, soups, rice, or on pasta.
 
 ## Pickled Garlic
 _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
-
-Prep time: **6-8 weeks**
-
-Shelf life: **Year**
+- Prep time: **6-8 weeks**
+- Shelf life: **Year**
 
 ### Ingredients
 - Garlic cloves

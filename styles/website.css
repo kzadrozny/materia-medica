@@ -65,14 +65,23 @@ a.gitbook-link {
     font-size: 1.25em;
     font-family: 'Fira Sans', sans-serif;
     font-weight: 600;
-    color: #767676;
+    color: #4F516F;
     margin-bottom: 0.25em;
+}
+
+.markdown-section h2 a, .markdown-section h3 a {
+    color: #4F516F;
 }
 
 .markdown-section h3 {
     font-size: 1.15em;
     font-family: 'Fira Sans', sans-serif;
     font-weight: 400;
-    color: #767676;
+    color: #0b4d3a;
     margin-bottom: 0.25em;
+}
+
+.markdown-section blockquote {
+    color: #333;
+    border-left: 4px solid #579a86;
 }

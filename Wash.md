@@ -1,5 +1,6 @@
 # Wash
 ## Base Recipe and Dosage
+_From: The Master Book of Herbalism by Paul Beyerl_
 **Strong**
 - 1/z oz herbs
 - 1 pint water
@@ -10,4 +11,3 @@
 - 1 pint water
 - steep until lukewarm
 
-_From: The Master Book of Herbalism by Paul Beyerl_
