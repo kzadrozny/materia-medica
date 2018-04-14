@@ -1,13 +1,13 @@
 # Balm
 
->
+
 > ## Base Recipe
 > - 8 oz herbal infused oil(s)
 > - 1 oz beeswax
 > - 10-20 drops essential oil (optional)
 >
 > Place oils and wax in double boiler and heat until melted. Remove from heat and add essential oil(s). Pour into containers while still hot.
->
+
 
 ## Calendula Salve
 _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
