@@ -32,6 +32,61 @@ _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
 ### Using
 Apply small amount to skin for rashes, wounds, cuts, diaper rash, or cradle cap. Massage gently into affected area.
 
+
+## Mullein-Red Clover Salve
+_From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
+- Prep time: **3 weeks to 1 hour**
+- Shelf life: **Year**
+- Uses: **Congestion and swelling**
+
+### Ingredients
+- 1 part calendula flowers
+- 1 part mullein leaf
+- 1 part red clover flower and leaf
+- 1/2 part mullein flower
+- olive oil
+- grated beeswax
+
+### Making
+1. Infuse hears in oil, following instructions in [Herbal Oils](Herbal-oils.md).
+
+2. When the herbal oil is ready, warm the oil over very low heat and stir in most of the beeswax, reserving just a tablespoon. [Check your consistency](#freezer-trick) and adjust as needed.
+
+2. When salve is at desired consistency, add the essential oil, using more or less depending on the strength of the scent you prefer. Stir in turmeric to enhance the orange color.
+
+3. Poor into small jars or tins. Let cool, then put the lids on the jars and store in a cool, dark location, where the salve will keep for at least a year.
+
+
+### Using
+Apply this salve topically to treat congestion and swelling.
+
+
+## St. John's Wort Salve
+_From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
+- Prep time: **3 weeks to 1 hour**
+- Shelf life: **Year**
+- Uses: **Rashes, burns, cuts, and wounds**
+
+### Ingredients
+- 1 part calendula flowers
+- 1 part comfrey leaf
+- 1 part St. John's wort leaf and flower
+- olive oil
+- grated beeswax
+
+### Making
+1. Infuse hears in oil, following instructions in [Herbal Oils](Herbal-oils.md).
+
+2. When the herbal oil is ready, warm the oil over very low heat and stir in most of the beeswax, reserving just a tablespoon. [Check your consistency](#freezer-trick) and adjust as needed.
+
+2. When salve is at desired consistency, add the essential oil, using more or less depending on the strength of the scent you prefer. Stir in turmeric to enhance the orange color.
+
+3. Poor into small jars or tins. Let cool, then put the lids on the jars and store in a cool, dark location, where the salve will keep for at least a year.
+
+
+### Using
+Apply this salve onto wounds, cuts, burns, or any skin injury that needs healing.
+
 ___
 
 ## [Customizing Your Consistency](#freezer-trick)

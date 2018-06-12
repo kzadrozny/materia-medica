@@ -90,3 +90,37 @@ _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
 ### Using
 Eat as is. Will not cause stomach issues since it is pickled.
 
+
+## Holy Basil Long-Life Vinegar
+_From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
+- Prep time: **3-4 weeks**
+- Shelf life: **Indefinite**
+
+### Ingredients
+- holy basil
+- Apple cider vinegar (unpasteurized)
+
+### Making
+1. Pack a widemouthed glass quart jar about 3/4 of the way full with holy basil. Fill the jar nearly full with apple cider vinegar. Put on the lid and shake a fews times.
+
+2. Place the jar in a warm spot (near a sunny window is fine) and let sit for 3-4 weeks. Strain and pour into a glass jar with a tight-fitting lid.
+
+### Using
+Drizzle 2-3 tablespoons over your salad or drink a small shot of it (1/4 cup or less).
+
+
+## Nettle Pesto
+_From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
+
+### Ingredients
+- 1-2 cups olive oil
+- 1/2 cup chopped pine nuts, walnuts, or cashews
+- 2-3 cloves garlic
+- Several handfuls freshly picked nettles
+- 1/4 cup grated Parmesan cheese
+
+### Making
+1. Combine oilive oil, nuts, and garlic in a blender or food processor and blend until creamy.
+
+2. Add the nettles (raw and unsteamed) a (gloved) handful at a time and blend thoroughly, until the pesto becomes a creamy paste. (As long as you blend and puree the nettles well, there should be no stinging.) Add the Parmesan and stir well.
+
