@@ -1,5 +1,6 @@
 # Infusions
 Like a tea, but stronger. Specifically useful for preparations that contain hard, woody stems or bark.
+
 _Organized Alphabetically_
 
 > ## Base Recipes
@@ -20,6 +21,7 @@ _Organized Alphabetically_
 >
 >## Dosage
 > _From: The Master Book of Herbalism by Paul Beyerl_
+>
 > **Strong**
 > - 1 oz herbs
 > - 1 pint water

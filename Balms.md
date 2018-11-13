@@ -1,5 +1,7 @@
-# Balm
+# Balms and Salves
+Like a lotion, but a balm requires friction and must be rubbed or massaged into the skin for proper application. Mainly used to relieve pain and stiffness such as sore muscles or arthritis. Salves are thicker than balms and are sometimes used as an adhesive to apply further medicinal items.
 
+_Organized Alphabetically_
 
 > ## Base Recipe
 > - 8 oz herbal infused oil(s)

@@ -1,5 +1,6 @@
 # Herbal Oils
 Oils infused with herbs. For carrier oils and ingredients, view [Carrier Ingredients](Oils.md)
+
 _Organized Alphabetically_
 
 > ## Base Recipe
