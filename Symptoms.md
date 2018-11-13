@@ -29,7 +29,7 @@
 * [Rashes](#rashes)
 * [Sedative](#sedative)
 * [Sleep](#sedative)
-* [Stress](#nervine)]
+* [Stress](#nervine)
 * [Stomach Ache](#nausea)
 * [Sunburn](#sunburn)
 * [Toothache](#toothache)

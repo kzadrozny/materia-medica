@@ -1,6 +1,24 @@
 # Infusions
+Like a tea, but stronger. Specifically useful for preparations that contain hard, woody stems or bark.
+_Organized Alphabetically_
 
-> ## Base Recipes and Dosage
+> ## Base Recipes
+>_From my Use_
+>- 1 cup dried herb
+>- 1 quart jar of boiling water
+>- Cover and steep 4 hours (See steeping times below)
+>- Strain and squeeze out liquid from herbs  The remaining plant matter can then be put in your compost.
+>- Let infusion cool before using.
+>- Keeps in refrigerator for 3 days.
+>
+>## Steeping Times
+>_Susun Weed’s recommendations_
+>- Roots/Barks – 8 hours minimum
+>- Leaves – 4 hours minimum
+>- Flowers – 2 hours minimum
+>- Seeds/Berries – 30 minutes minimum
+>
+>## Dosage
 > _From: The Master Book of Herbalism by Paul Beyerl_
 > **Strong**
 > - 1 oz herbs

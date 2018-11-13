@@ -12,7 +12,7 @@
 * [Medicinal Food](Food.md)
 * [Ointments](Ointment.md)
 * [Poultice](Poultice.md)
-* [Tinctures](Tinctures.md)
+<!-- * [Tinctures](Tinctures.md) -->
 * [Wash](Wash.md)
 
 ## Herbs

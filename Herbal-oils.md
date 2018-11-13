@@ -2,6 +2,12 @@
 Oils infused with herbs. For carrier oils and ingredients, view [Carrier Ingredients](Oils.md)
 _Organized Alphabetically_
 
+> ## Base Recipe
+> - Fill jar 3/4 way full with herbs
+> - Top off with oil, within 1/4" from top of jar
+> - Let sit in sunny spot for 3-4 weeks
+> - Strain and put in air-tight container.
+
 ## Calendula Oil
 _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
 - Prep time: **3-8 months**
