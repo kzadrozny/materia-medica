@@ -1,4 +1,27 @@
 # Seasonings and Food Recipes
+_Organized Alphabetically_
+
+## Apple Cider Vinegar
+- Prep time: **6-8 weeks**
+- Shelf life: **Indefinite**
+
+### Ingredients
+- Clean jar and fermentation weight or second smaller glass jar
+- Organic apple scraps (peels and/or cores)
+- 2 tablespoons sugar
+- 2 cups filtered water
+- Cheesecloth/coffee filter with rubber band or fermentation jar top
+
+### Making
+1. Fill your jar 3/4 of the way full with your apple scraps. Make syrup by dissolving 1 tablespoon of sugar into 1 cup of warm water. Pour syrup over the apple scraps until they are completely submerged. (Add more water if needed to cover scraps.)
+
+2. Weigh down the apples with a fermentation weight or with the small glass jar. (Any apples that are exposed to the air could mold.) Cover with the cheesecloth / coffee filter and secure with the rubber band or use a fermentation jar top.
+
+3. Store in a dark place at room temperature, like a kitchen cabinet, and let sit for about 3 weeks. Check on it every few days to make sure the scraps are underwater and that no mold is growing.
+
+4. After 3 weeks, strain the apples scraps and return the liquid to the jar and re-cover with cheesecloth/fermentation cap. Put the jar back in a dark spot for another 3-4 weeks, stirring every few days. The vinegar is done when it reaches the tartness level you like. When ready, seal with lid or decant into a different bottle/jar and use as you see fit.
+
+
 
 ## Fire Cider
 _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
@@ -120,7 +143,7 @@ _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
 - 1/4 cup grated Parmesan cheese
 
 ### Making
-1. Combine oilive oil, nuts, and garlic in a blender or food processor and blend until creamy.
+1. Combine olive oil, nuts, and garlic in a blender or food processor and blend until creamy.
 
 2. Add the nettles (raw and unsteamed) a (gloved) handful at a time and blend thoroughly, until the pesto becomes a creamy paste. (As long as you blend and puree the nettles well, there should be no stinging.) Add the Parmesan and stir well.
 

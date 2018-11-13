@@ -7,7 +7,7 @@
 * [Balms and Salves](Balms.md)
 * [Decoctions](Decoctions.md)
 * [Herbal Oils](Herbal-oils.md)
-* Honey Blends
+* [Honey Blends](Honey.md)
 * [Infusions](Infusions.md)
 * [Medicinal Food](Food.md)
 * [Ointments](Ointment.md)
