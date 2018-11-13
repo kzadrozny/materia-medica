@@ -1,8 +1,6 @@
 # Infusions
 Like a tea, but stronger. Specifically useful for preparations that contain hard, woody stems or bark.
 
-_Organized Alphabetically_
-
 > ## Base Recipes
 >_From my Use_
 >- 1 cup dried herb
@@ -37,6 +35,8 @@ _Organized Alphabetically_
 > - 1 pint water
 > - steep 15 mins
 
+
+_Organized Alphabetically_
 
 ## Flower Power Formula for Lymphatic Congestion
 _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_

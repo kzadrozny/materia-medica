@@ -1,15 +1,15 @@
 # Balms and Salves
 Like a lotion, but a balm requires friction and must be rubbed or massaged into the skin for proper application. Mainly used to relieve pain and stiffness such as sore muscles or arthritis. Salves are thicker than balms and are sometimes used as an adhesive to apply further medicinal items.
 
-_Organized Alphabetically_
-
 > ## Base Recipe
 > - 8 oz herbal infused oil(s)
 > - 1 oz beeswax
 > - 10-20 drops essential oil (optional)
 >
 > Place oils and wax in double boiler and heat until melted. Remove from heat and add essential oil(s). Pour into containers while still hot.
+>
 
+_Organized Alphabetically_
 
 ## Calendula Salve
 _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
@@ -34,6 +34,7 @@ _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
 ### Using
 Apply small amount to skin for rashes, wounds, cuts, diaper rash, or cradle cap. Massage gently into affected area.
 
+___
 
 ## Mullein-Red Clover Salve
 _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
@@ -62,6 +63,7 @@ _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
 ### Using
 Apply this salve topically to treat congestion and swelling.
 
+___
 
 ## St. John's Wort Salve
 _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
@@ -91,9 +93,9 @@ Apply this salve onto wounds, cuts, burns, or any skin injury that needs healing
 
 ___
 
-## [Customizing Your Consistency](#freezer-trick)
-In order to test the consistency of your balm, use the freezer trick:
-1. As soon as the beeswax has melted, put a tablespoon of the mix on a plate in the freezer for a minute or two to check the consistency.
-
-2. If you decide you want a firmer salve, add more beeswax. If you want a softer salve, add a little more oil.
-
+> ## [Customizing Your Consistency](#freezer-trick)
+>In order to test the consistency of your balm, use the freezer trick:
+>1. As soon as the beeswax has melted, put a tablespoon of the mix on a plate in the freezer for a minute or two to check the consistency.
+>
+>2. If you decide you want a firmer salve, add more beeswax. If you want a softer salve, add a little more oil.
+>

@@ -1,13 +1,15 @@
 # Herbal Oils
 Oils infused with herbs. For carrier oils and ingredients, view [Carrier Ingredients](Oils.md)
 
-_Organized Alphabetically_
-
 > ## Base Recipe
 > - Fill jar 3/4 way full with herbs
 > - Top off with oil, within 1/4" from top of jar
 > - Let sit in sunny spot for 3-4 weeks
 > - Strain and put in air-tight container.
+>
+
+
+_Organized Alphabetically_
 
 ## Calendula Oil
 _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
@@ -30,6 +32,7 @@ For double-strength: When straining, add a fresh batch of calendula buds to the 
 ### Using
 Apply to skin for rashes, eczema, or swollen lymph glands. Good for massage oil or for any cosmetic recipe that calls for oil.
 
+___
 
 ## Calming Herbal Oil
 - Prep time: **3-4 weeks**
@@ -54,6 +57,7 @@ Use portion of the oil to make a salt rub or skin balm.
 ### Using
 Apply to dry skin. Good for massage oil.
 
+___
 
 ## Garlic Herb Oil
 Edible, so it is is [Medicinal Food](Food.md)
