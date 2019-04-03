@@ -1,5 +1,5 @@
 # Infusions &amp; Teas
-Like a tea, but stronger. Specifically useful for preparations that contain hard, woody stems or bark.
+Infusions are similar to a tea, but stronger. Specifically useful for preparations that contain hard, woody stems or bark.
 
 > ## Base Recipe for Infusion
 >_From my Use_
@@ -44,22 +44,26 @@ _Organized Alphabetically_
 
 ## Calming Herbal Tea
 _From: [Crone Vibes: A Year of Recipes and Rituals](https://cronevibes.com/)_
+- Prep time: **dry mix: 5 minutes | steeping: 30 minutes**
+- Shelf life: **dry mix: 2 years**
 - Uses: **Calms nerves and your tummy**
 
 ### Ingredients
-2 parts dried rosemary
-1 part dried violet leaves
+- 2 parts dried rosemary
+- 1 part dried violet leaves
 
 ### Making
-Add to tea ball and brew with hot water for 10 mins. Enjoy with a book and chill out.
+Add to tea ball and brew with hot water for 15-30 minutes. Drink slowly.
 
 ### Herb Notes
 - Rosemary: Anti-inflammatory, aids digestion, relieves stress.
 - Violet leaves: Anti-inflammatory, helps skin irritations.
 
 
-## Fever Reducing Tea
+## Fever Reducing Tea / Infusion
 _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
+- Prep time: **dry mix: 5 minutes | infusion: 4 hours**
+- Shelf life: **dry mix: 2 years | infusion: 48 hours**
 - Uses: **Fevers**
 
 ### Ingredients
@@ -68,15 +72,17 @@ _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
 - 1 part yarrow flower and leaf
 
 ### Making
-Prepare a strong infusion of the herbs= (recipe at top of section).
+Prepare a strong infusion of the herbs (recipe at top of section).
 
 
 ### Using
 Drink 1/2 a cup every 30 mins to bring on a sweat. Once you begin to sweat, reduce the tea to about 12 cup every hour and continue until fever subsides.
 
 
-## Flower Power Formula for Lymphatic Congestion
+## Flower Power Formula for Lymphatic Congestion (Infusion)
 _From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
+- Prep time: **dry mix: 5 minutes | infusion: 4 hours**
+- Shelf life: **dry mix: 2 years | infusion: 48 hours**
 - Uses: **Swollen glands, fibrocystic breast conditions, or history of cancer**
 
 ### Ingredients
