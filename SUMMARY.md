@@ -7,7 +7,7 @@
 * [Decoctions](Decoctions.md)
 * [Herbal Oils](Herbal-oils.md)
 * [Honey Blends](Honey.md)
-* [Infusions &amp; Tea](Infusions.md)
+* [Infusions &amp; Teas](Infusions.md)
 * [Medicinal Food](Food.md)
 * [Ointments](Ointment.md)
 * [Poultice](Poultice.md)

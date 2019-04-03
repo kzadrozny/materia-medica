@@ -1,7 +1,7 @@
 # Infusions &amp; Teas
 Like a tea, but stronger. Specifically useful for preparations that contain hard, woody stems or bark.
 
-> ## Base Recipes
+> ## Base Recipe for Infusion
 >_From my Use_
 >- 1 cup dried herb
 >- 1 quart jar of boiling water
@@ -10,14 +10,18 @@ Like a tea, but stronger. Specifically useful for preparations that contain hard
 >- Let infusion cool before using.
 >- Keeps in refrigerator for 3 days.
 >
->## Steeping Times
->_Susun Weed’s recommendations_
->- Roots/Barks – 8 hours minimum
+>## Steeping Times for Tea and Infusions
+>_For Teas (My recommendation)_
+- Leaf and flower blends - 15-30 mins
+- Roots and Barks – 1 hour (Infusions are best)
+
+>_For Infusions (Susun Weed’s recommendations)_
+>- Roots and Barks – 8 hours minimum
 >- Leaves – 4 hours minimum
 >- Flowers – 2 hours minimum
 >- Seeds/Berries – 30 minutes minimum
 >
->## Dosage
+<!-- >## Dosage
 > _From: The Master Book of Herbalism by Paul Beyerl_
 >
 > **Strong**
@@ -33,7 +37,7 @@ Like a tea, but stronger. Specifically useful for preparations that contain hard
 > **Weak (Tea)**
 > - 1/2 oz herbs
 > - 1 pint water
-> - steep 15 mins
+> - steep 15 mins -->
 
 
 _Organized Alphabetically_
