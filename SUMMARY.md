@@ -1,14 +1,13 @@
 # Contents
 ## Front Matter
 * [Introduction](README.md)
-* [Guide by symptom(s)](Symptoms.md)
 
 ## Recipes
 * [Balms and Salves](Balms.md)
 * [Decoctions](Decoctions.md)
 * [Herbal Oils](Herbal-oils.md)
 * [Honey Blends](Honey.md)
-* [Infusions](Infusions.md)
+* [Infusions &amp; Tea](Infusions.md)
 * [Medicinal Food](Food.md)
 * [Ointments](Ointment.md)
 * [Poultice](Poultice.md)
@@ -24,3 +23,6 @@
 ## [Carrier Ingredients](Oils.md)
 * [Honey](Ingredients.md#honey)
 * [Sesame Oil](Ingredients.md#sesame)
+
+## Appendix
+* [Guide by symptom(s)](Symptoms.md)

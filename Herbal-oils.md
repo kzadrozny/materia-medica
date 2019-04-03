@@ -35,6 +35,7 @@ Apply to skin for rashes, eczema, or swollen lymph glands. Good for massage oil 
 ___
 
 ## Calming Herbal Oil
+_From: [Crone Vibes: A Year of Recipes and Rituals](https://cronevibes.com/)_
 - Prep time: **3-4 weeks**
 - Shelf life: **Year**
 - Uses: **For anti-inflammation and calming skin issues**
@@ -56,6 +57,11 @@ Use portion of the oil to make a salt rub or skin balm.
 
 ### Using
 Apply to dry skin. Good for massage oil.
+
+### Herb Notes
+- Rosemary: Anti-inflammatory, aids digestion, relieves stress.
+- Violet leaves: Anti-inflammatory, helps skin irritations.
+
 
 ___
 

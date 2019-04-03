@@ -1,4 +1,4 @@
-# Infusions
+# Infusions &amp; Teas
 Like a tea, but stronger. Specifically useful for preparations that contain hard, woody stems or bark.
 
 > ## Base Recipes
@@ -38,21 +38,20 @@ Like a tea, but stronger. Specifically useful for preparations that contain hard
 
 _Organized Alphabetically_
 
-## Flower Power Formula for Lymphatic Congestion
-_From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
-- Uses: **Swollen glands, fibrocystic breast conditions, or history of cancer**
+## Calming Herbal Tea
+_From: [Crone Vibes: A Year of Recipes and Rituals](https://cronevibes.com/)_
+- Uses: **Calms nerves and your tummy**
 
 ### Ingredients
-- 2 parts red clover flower
-- 1 part calendula flower
-- 1 part violet leaf
+2 parts dried rosemary
+1 part dried violet leaves
 
 ### Making
-Prepare the herbs as an infusion (recipe at top of section) or as a tincture.
+Add to tea ball and brew with hot water for 10 mins. Enjoy with a book and chill out.
 
-
-### Using
-Take 1/2 to 1 teaspoon two times daily.
+### Herb Notes
+- Rosemary: Anti-inflammatory, aids digestion, relieves stress.
+- Violet leaves: Anti-inflammatory, helps skin irritations.
 
 
 ## Fever Reducing Tea
@@ -70,4 +69,21 @@ Prepare a strong infusion of the herbs= (recipe at top of section).
 
 ### Using
 Drink 1/2 a cup every 30 mins to bring on a sweat. Once you begin to sweat, reduce the tea to about 12 cup every hour and continue until fever subsides.
+
+
+## Flower Power Formula for Lymphatic Congestion
+_From: Medicinal Herbs: A Beginner's Guide by Rosemary Gladstar_
+- Uses: **Swollen glands, fibrocystic breast conditions, or history of cancer**
+
+### Ingredients
+- 2 parts red clover flower
+- 1 part calendula flower
+- 1 part violet leaf
+
+### Making
+Prepare the herbs as an infusion (recipe at top of section) or as a tincture.
+
+
+### Using
+Take 1/2 to 1 teaspoon two times daily.
 

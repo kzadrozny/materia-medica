@@ -1,6 +1,7 @@
 # Honey Blends
 
 ##Mending Honey
+_From: [Crone Vibes: A Year of Recipes and Rituals](https://cronevibes.com/)_
 - Prep time: **15 mins**
 - Shelf life: **Indefinite**
 - Uses: **Aids digestion, calms nerves, and an aphrodisiac**
@@ -17,3 +18,6 @@
 
 ### Using
 Tastes great with yogurt, toast, or tea.
+
+### Herb Notes
+- Damiana: Aids digestion, calms nerves, aphrodisiac.
